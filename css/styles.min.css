@@ -5758,3 +5758,9 @@ body,html {
 	text-align: center;
 	margin-top: 20px
 }
+
+.whale {
+	font-family: 'VCR OSD Mono', sans-serif;
+	font-size: 2em;
+	color: white;
+}
