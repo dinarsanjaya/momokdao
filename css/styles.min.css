@@ -5753,8 +5753,8 @@ body,html {
 
 .momok-heading {
 	font-family: 'VCR OSD Mono', sans-serif;
-	font-size: 2em;
+	font-size: 3em;
 	color: white;
 	text-align: center;
-	padding-top: 5vh;
+	margin-top: 10em;
 }
