@@ -5749,3 +5749,8 @@ body,html {
     align-items: center;
     height: 35%;
 }
+
+.momok-heading {
+	font-family: 'VCR OSD Mono', sans-serif;
+	font-size: 1.3em;
+}
